@@ -1,3 +1,6 @@
-# Data_Analysis
-EDA is one of the modules for Intelligent Data Analysis. This handson involves dimensionality reduction techniques (PCA,LDA). 
-Decomposition of matrices is also depicted using SVD
+#Intelligent Data_Analysis
+This involves 4 modules :
+1) Exploratory Data Analysis
+2) Frequent Pattern Mining
+3) Classification
+4) Clustering
